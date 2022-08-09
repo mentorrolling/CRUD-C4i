@@ -1,10 +1,7 @@
 {
   "articles": [
     {
-      "source": {
-        "id": "la-gaceta",
-        "name": "La Gaceta"
-      },
+      "id":1,
       "author": "La Gaceta",
       "title": "Nuevas funciones en WhatsApp: irse de grupos en silencio y elegir quién nos ve en línea - LA GACETA",
       "description": "También se implementará en modo de prueba el bloqueo de la captura de pantalla para los mensajes de visualización única.",
@@ -14,10 +11,7 @@
       "content": "La aplicación de mensajería más popular a nivel mundial, WhatsApp, anunció la llegada de tres nuevas funciones: la posibilidad de irse de un grupo \"en silencio\", sin que la notificación le llegue a t… [+1448 chars]"
     },
     {
-      "source": {
-        "id": "infobae",
-        "name": "Infobae"
-      },
+      "id":2,
       "author": "anónimo",
       "title": "Un Nokia de 1998 convertido en Android, esta es la historia - Infobae America",
       "description": "Por fuera se ve como un clásico Nokia 5110 pero al abrirlo, hay una moderna pantalla y un teclado para operarlo",
@@ -27,10 +21,7 @@
       "content": "Con toda seguridad Nokia es de esas marcas de tecnología que más nostalgia despierta entre las personas, especialmente quienes hacen parte de la generación X y los más mayores de los millennials.\r\nY … [+3121 chars]"
     },
     {
-      "source": {
-        "id": "infobae",
-        "name": "Infobae"
-      },
+      "id":3,
       "author": "anónimo",
       "title": "Google Duo inicia su fusión con Google Meet y cambia de logo - infobae",
       "description": "La fusión de ambos servicios se producirá de manera gradual y sus funciones actuales serán combinadas",
@@ -40,10 +31,7 @@
       "content": "La nueva actualización de Google Duo para iOS y Android introdujo cambios en esta función que integra características propias de Meet, además de un nuevo logo. Esto, luego de que Google anunciara en … [+3034 chars]"
     },
     {
-      "source": {
-        "id": "la-nacion",
-        "name": "La Nacion"
-      },
+      "id":4,
       "author": null,
       "title": "Desde Madonna hasta Ginóbili. ¿Cuál es la técnica ancestral que es furor entre famosos y mejora la calidad de vida? - LA NACION",
       "description": "Se trata de una práctica que combina el uso de la tecnología con la biología humana para optimizar y potenciar la bioindividualidad",
@@ -53,10 +41,7 @@
       "content": "El ser humano busca la comodidad y el placer inmediato; esta falta de adversidad nos lleva a ser cada vez más débiles. A pesar de que evolucionamos como especie, nuestra biología y sus necesidades si… [+5248 chars]"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Rosario3.com"
-      },
+      "id":5,
       "author": "Rosario3",
       "title": "Reunión clave para destrabar el proyecto de Javkin para designar a los jefes de la Policía - Rosario3.com",
       "description": "Este martes los diputados de las comisiones de Seguridad Pública, Asuntos Comunales y Constitucionales estarán en el municipio para mantener un encuentro con el intendente. El objetivo es acordar un nuevo texto donde la potestad para elegir a las autoridades …",
@@ -66,10 +51,7 @@
       "content": "A tres meses de haber ingresado formalmente en Diputados, el proyecto de Pablo Javkin para que los intendentes puedan designar a los jefes regionales de la Policía empieza a moverse entre las comisio… [+1669 chars]"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Cadena 3"
-      },
+      "id":6,
       "author": "Cadena 3 Argentina",
       "title": "Horas de tensión en México: cómo es el rescate de mineros con un dron acuático - Cadena 3",
       "description": "10 obreros permanecen atrapados desde hace cinco días en una mina inundada ubicada a unos 1.130 km al norte de Ciudad de México, en la región carbonífera de Coahuila.",
@@ -79,10 +61,7 @@
       "content": "Las autoridades mexicanas comenzaron a preparar este lunes un operativo para que buzos rescatistas puedan ingresar a una mina de carbón inundada, donde diez obreros permanecen atrapados desde hace ci… [+4000 chars]"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Rosario3.com"
-      },
+      "id":7,
       "author": "Rosario3",
       "title": "La Municipalidad denunció las pintadas y envió videos a Fiscalía con \"8 facinerosos\": \"Esto no puede pasar\" - Rosario3.com",
       "description": "El secretario de Gobierno municipal, Giustavo Zignago, informó que las cámaras de seguridad captaron a ocho personas mientras escribían \"Plomo y humo\" en el Palacio de los Leones y que ese material ya fue enviado al Ministerio Público de la Acusación. Pidió q…",
@@ -92,10 +71,7 @@
       "content": "Tras las pintadas sobre el Palacio de los Leones que se descubrieron esta mañana, la Municipalidad ya envió videos sobre los sospechosos a la Fiscalía para iniciar una denuncia. Plomo y humo, el nego… [+1146 chars]"
     },
     {
-      "source": {
-        "id": "infobae",
-        "name": "Infobae"
-      },
+     "id":8,
       "author": "anónimo",
       "title": "iPhone 14: nuevos colores, una carga más rápida y otros datos del lanzamiento - Infobae America",
       "description": "Amantes de Apple, conocidos como Apple Lovers, dicen que los colores de la nueva serie de iPhone 14 serían verde, morado, plateado, dorado, grafito azul, negro, blanco y rojo",
@@ -105,10 +81,7 @@
       "content": "El próximo mes de septiembre se presentaría oficialmente la nueva serie de iPhone 14, razón por la cual, los rumores sobre sus características se hacen cada vez más fuertes en internet.\r\nEn esta ocas… [+3011 chars]"
     },
     {
-      "source": {
-        "id": null,
-        "name": "La Voz del Interior"
-      },
+      "id":9,
       "author": "Redacción LAVOZ",
       "title": "Córdoba: otro detenido por robar autos de alta gama con tecnología Pandora - La Voz del Interior",
       "description": "Sería integrante de la banda dedicada al robo de vehículos con la tecnología rusa.",
@@ -118,10 +91,7 @@
       "content": "Un hombre resultó detenido en las últimas horas en Córdoba en relación a la investigación que se lleva a cabo por el robo de vehículos de alta gama con la tecnología rusa Pandora.\r\nSegún informaron l… [+2345 chars]"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Clarín"
-      },
+      "id":10,
       "author": "Clarín.com",
       "title": "Una tecnológica japonesa sumará 150 empleados en Argentina: qué perfiles busca y cómo postularse - Clarín",
       "description": "La multinacional NTT Data anunció que quiere llegar a los 1.000 colaboradores en todo el país. Qué pide y qué ofrece.",
@@ -129,136 +99,7 @@
       "urlToImage": "https://www.clarin.com/img/2021/08/09/MvbVaZSQh_1200x630__1.jpg",
       "publishedAt": "2022-08-09T09:00:51Z",
       "content": "NTT Data Argentina, la compañía innovadora global de servicios empresariales y de IT con sede en Tokio incorpora más de 150 empleados en el país con la intención de formar equipos federales y multidi… [+6679 chars]"
-    },
-    {
-      "source": {
-        "id": "la-nacion",
-        "name": "La Nacion"
-      },
-      "author": null,
-      "title": "15 años de Google en el país: Argentina, una carrera posible - LA NACION",
-      "description": "15 años de Google en el país: Argentina, una carrera posible",
-      "url": "https://www.lanacion.com.ar/tecnologia/15-anos-de-google-en-el-pais-argentina-una-carrera-posible-nid09082022/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/1vPZ3iuQ2GjA2_niBpBPstRxmBo=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/DZEPKNEY35G7THF2ZKYX2JRTGY.jpg",
-      "publishedAt": "2022-08-09T04:48:00Z",
-      "content": "¿Por qué Argentina? Google se instaló en nuestro país hace 15 años. Fui el primer empleado de las oficinas locales y recuerdo que cuando cortamos las cintas del que era nuestro tercer centro regional… [+4235 chars]"
-    },
-    {
-      "source": {
-        "id": "infobae",
-        "name": "Infobae"
-      },
-      "author": "anónimo",
-      "title": "En las energías renovables y el reciclado estarán los trabajos del futuro: qué puestos serán demandados - infobae",
-      "description": "La sostenibilidad que ya está en marcha para mitigar el calentamiento global abre nuevas puertas a especializaciones antes desconocidas. Cuáles serán los perfiles buscados",
-      "url": "https://www.infobae.com/tendencias/talento-y-liderazgo/2022/08/09/en-las-energias-renovables-y-el-reciclado-estaran-los-trabajos-del-futuro-que-puestos-seran-demandados/",
-      "urlToImage": "https://www.infobae.com/new-resizer/FeKkSYvuCncr_wQVn5Bq_nZXQz4=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/MCUNIA2CDFAAFJI26LJM73U2YA.jpg",
-      "publishedAt": "2022-08-09T03:42:58Z",
-      "content": "La llamada cuarta revolución industrial está generando cambios en el mundo laboral que están llegando a una velocidad extraordinaria, por lo que el presente se confunde con el futuro. Lo cierto es qu… [+8172 chars]"
-    },
-    {
-      "source": {
-        "id": "infobae",
-        "name": "Infobae"
-      },
-      "author": "anónimo",
-      "title": "Qué hacer cuando el celular se queda tildado o no enciende - infobae",
-      "description": "Muchas veces pasa que al encender el celular, éste no responde, se queda tildado en la manzana o con la pantalla negra en el caso de los iPhone. Pero estos problemas tienen solución con Tenorshare ReiBoot",
-      "url": "https://www.infobae.com/inhouse/2022/08/09/que-hacer-cuando-el-celular-se-queda-tildado-o-no-enciende/",
-      "urlToImage": "https://www.infobae.com/new-resizer/t7IbX6Tn4woiTDaiHnIwZP3r8Hk=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/TLXVS4CURBBDZA7AB2O5AF7VK4.jpg",
-      "publishedAt": "2022-08-09T03:33:18Z",
-      "content": "Si bien la tecnología ha avanzado a gran velocidad en estos últimos años, mejorando en muchos casos la vida cotidiana de las personas, a veces estas herramientas sufren el desgaste en su hardware (la… [+4613 chars]"
-    },
-    {
-      "source": {
-        "id": "infobae",
-        "name": "Infobae"
-      },
-      "author": "anónimo",
-      "title": "Bitcoin vs. dólar libre: ¿cuál es la mejor opción para ahorrar? - infobae",
-      "description": "La moneda estadounidense tienen suministros esencialmente ilimitados y pierden valor cuando los gobiernos imprimen demasiado. La cripto es finita: sólo es posible minar 21 millones",
-      "url": "https://www.infobae.com/opinion/2022/08/09/bitcoin-vs-dolar-libre-cual-es-la-mejor-opcion-para-ahorrar/",
-      "urlToImage": "https://www.infobae.com/new-resizer/zmzKNLjsHDUnNgn9dvvagTdIdTo=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/CUTOUZZU7JDMHFJCK2VDJZGSZE.jpg",
-      "publishedAt": "2022-08-09T03:33:18Z",
-      "content": "Estamos pasando por un periodo económico de alta inflación en el que necesitamos cuidar nuestros ahorros más que nunca. Históricamente, hay una tendencia por el ahorro en dólares, aunque muchos usuar… [+3138 chars]"
-    },
-    {
-      "source": {
-        "id": "la-gaceta",
-        "name": "La Gaceta"
-      },
-      "author": "La Gaceta",
-      "title": "Las últimas seis novedades en tecnología que tenés que conocer - LA GACETA",
-      "description": "Si tenés una compu vieja, un teléfono Android o sos amantes de las redes sociales, te van a interesar estas novedades del mundo digital. Además, se filtran más datos del Iphone 14.",
-      "url": "https://www.lagaceta.com.ar/nota/955963/sociedad/ultimas-seis-novedades-tecnologia-tenes-conocer.html",
-      "urlToImage": "https://img.lagaceta.com.ar/fotos/notas/2022/08/09/955963_202208081857260000001.jpg",
-      "publishedAt": "2022-08-09T03:29:43Z",
-      "content": "1- Podrás ocultar tu en línea\r\nVersión de prueba de WhatsApp\r\nEl estado en línea de WhatsApp es lo que delata que estamos activos en la app. Seguramente alguna vez hayas querido ocultarlo, pero hasta… [+4616 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ámbito.com"
-      },
-      "author": "ámbito.com",
-      "title": "Llegó a la Argentina una tarjeta Mastercard para pagar con criptomonedas - ámbito.com",
-      "description": "Es para usuarios de la plataforma Binance. Pueden hacer compras en pesos o dólares contra los activos que tengan en sus cuentas.",
-      "url": "https://www.ambito.com/llego-la-argentina-una-tarjeta-mastercard-pagar-criptomonedas-n5505366",
-      "urlToImage": "https://media.ambito.com/p/d1693ba3d7a4a18850187bcedaef3098/adjuntos/239/imagenes/040/059/0040059916/1200x675/smart/p8-binance_optjpeg.jpeg",
-      "publishedAt": "2022-08-09T03:00:25Z",
-      "content": "Maximiliano Hinz, director general de Binance para América Latina, dijo: Los pagos son uno de los primeros y más obvios casos de uso de las criptomonedas, aunque su adopción tiene mucho espacio para … [+2138 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Minutouno.com"
-      },
-      "author": "MinutoUno",
-      "title": "Se cayó Google y explotaron los memes - Minutouno",
-      "description": "Como ocurre cada vez que falla alguna aplicación, sitio famoso o red social, los usuarios de Twitter se burlan con reacciones y memes.",
-      "url": "https://www.minutouno.com/tecno/google/se-cayo-y-explotaron-los-memes-n5505436",
-      "urlToImage": "https://media.minutouno.com/p/fc41858bc78f69a2d991cc0d3402f9c2/adjuntos/150/imagenes/040/060/0040060028/memes-google.jpg",
-      "publishedAt": "2022-08-09T01:57:08Z",
-      "content": "Como ocurre cada vez que hay fallas en algún popular sitio, los usuarios se refugiaron en Twitter para realizar sus quejas pero también para burlarse con divertidas reacciones."
-    },
-    {
-      "source": {
-        "id": "la-nacion",
-        "name": "La Nacion"
-      },
-      "author": "Leandro Murciego",
-      "title": "Locales inteligentes en Argentina: cómo son las experiencias de compra sin colas, sin cajeros y sin probadores - LA NACION",
-      "description": "Lo mejor de los dos mundos: visitar una tienda, elegir, tocar, comprar o descartar, e irse con los productos pagos sin interactuar con nadie; cómo son los supermercados smart y los locales virtuales que ya son furor",
-      "url": "https://www.lanacion.com.ar/propiedades/locales-inteligentes-en-argentina-como-son-las-experiencias-de-compra-sin-colas-sin-cajeros-sin-nid08082022/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/ace9DGxMC9c7LFwip2se6-woe3U=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/U6RVRKDQ5ZD27MH67WGNSP5VGQ.JPG",
-      "publishedAt": "2022-08-09T01:27:00Z",
-      "content": "Lo que antes parecía un sueño, hoy es una realidad. El uso de la tecnología y de la inteligencia artificial gana cada vez más lugares en los comercios físicos y en la vida cotidiana. Este presente ca… [+6811 chars]"
-    },
-    {
-      "source": {
-        "id": "infobae",
-        "name": "Infobae"
-      },
-      "author": "anónimo",
-      "title": "Google instalará el cable de fibra óptica más largo del mundo que llegará desde Las Toninas a Estados Unidos - infobae",
-      "description": "El Enacom autorizó a la empresa a poner en marcha del cable submarino “Firminia”, de 13.500 kilómetros de extensión, que permitirá mejorar la conectividad a Internet del país",
-      "url": "https://www.infobae.com/economia/2022/08/09/google-instalara-el-cable-de-fibra-optica-mas-largo-del-mundo-que-ira-desde-las-toninas-a-estados-unidos/",
-      "urlToImage": "https://www.infobae.com/new-resizer/CrCK5WxQxso4FdbY1TS28sHM29w=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/R5HO5CVIUJEBDI4PCPDR5PFOIM.jpg",
-      "publishedAt": "2022-08-09T01:14:59Z",
-      "content": "El Ente Nacional de Comunicaciones (Enacom) autorizó a Google a realizar la instalación del cable de fibra óptica Firmina en el mar territorial argentino. El tendido será el más largo del mundo con u… [+2932 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ámbito.com"
-      },
-      "author": "Gonzalo J. Zanotti",
-      "title": "Verisure anunció inversiones por u$s200 millones en Argentina - ámbito.com",
-      "description": "Lo confirmó el Raúl Sias, Director General de la empresa a nivel local, en diálogo con Ámbito. \"Queremos colaborar con el futuro del país, trayendo oportunidades de empleo y tecnología\", dijo.",
-      "url": "https://www.ambito.com/negocios/empresas/verisure-anuncio-inversiones-us200-millones-argentina-n5505304",
-      "urlToImage": "https://media.ambito.com/p/1d2acd487cca7d8e08a6c2f0d88b37b6/adjuntos/239/imagenes/040/059/0040059759/1200x675/smart/verisurejpg.jpg",
-      "publishedAt": "2022-08-08T23:32:44Z",
-      "content": "La compañía desembarcó en territorio nacional en 2019, en medio de una fuerte crisis económica durante el gobierno de Mauricio Macri. Pandemia mediante y con la fragilidad local constante del país, e… [+3286 chars]"
     }
+   
   ]
 }

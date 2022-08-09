@@ -1,0 +1,144 @@
+const datos = [
+  {
+    id: 1,
+    author: "La Gaceta",
+    title:
+      "Nuevas funciones en WhatsApp: irse de grupos en silencio y elegir quién nos ve en línea - LA GACETA",
+    description:
+      "También se implementará en modo de prueba el bloqueo de la captura de pantalla para los mensajes de visualización única.",
+    url: "https://www.lagaceta.com.ar/nota/956064/sociedad/nuevas-funciones-whatsapp-irse-grupos-en-silencio-elegir-quien-nos-ve-linea.html",
+    urlToImage:
+      "https://img.lagaceta.com.ar/fotos/notas/2022/06/28/futura-actualizacion-whatsapp-permitira-salir-grupos-sin-nadie-lo-note-949957-085432.png",
+    publishedAt: "2022-08-09T15:21:10Z",
+    content:
+      'La aplicación de mensajería más popular a nivel mundial, WhatsApp, anunció la llegada de tres nuevas funciones: la posibilidad de irse de un grupo "en silencio", sin que la notificación le llegue a t… [+1448 chars]',
+  },
+  {
+    id: 2,
+    author: "anónimo",
+    title:
+      "Un Nokia de 1998 convertido en Android, esta es la historia - Infobae America",
+    description:
+      "Por fuera se ve como un clásico Nokia 5110 pero al abrirlo, hay una moderna pantalla y un teclado para operarlo",
+    url: "https://www.infobae.com/america/tecno/2022/08/09/un-nokia-de-1998-convertido-en-android-esta-es-la-historia/",
+    urlToImage:
+      "https://www.infobae.com/new-resizer/yKPR-cD4sOeQBkclqPI5gG0EiNA=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/XLKAJ7MURBBQXHRHK2OH5RP35E.jpg",
+    publishedAt: "2022-08-09T14:06:31Z",
+    content:
+      "Con toda seguridad Nokia es de esas marcas de tecnología que más nostalgia despierta entre las personas, especialmente quienes hacen parte de la generación X y los más mayores de los millennials.\r\nY … [+3121 chars]",
+  },
+  {
+    id: 3,
+    author: "anónimo",
+    title:
+      "Google Duo inicia su fusión con Google Meet y cambia de logo - infobae",
+    description:
+      "La fusión de ambos servicios se producirá de manera gradual y sus funciones actuales serán combinadas",
+    url: "https://www.infobae.com/america/tecno/2022/08/09/google-duo-inicia-su-fusion-con-google-meet-y-cambia-de-logo/",
+    urlToImage:
+      "https://www.infobae.com/new-resizer/DdyWRQNF3tn37nJyuHr7bkyXKns=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/RCGP56GWGRA7VFUT2CSIUDIBEY.jpg",
+    publishedAt: "2022-08-09T13:21:47Z",
+    content:
+      "La nueva actualización de Google Duo para iOS y Android introdujo cambios en esta función que integra características propias de Meet, además de un nuevo logo. Esto, luego de que Google anunciara en … [+3034 chars]",
+  },
+  {
+    id: 4,
+    author: null,
+    title:
+      "Desde Madonna hasta Ginóbili. ¿Cuál es la técnica ancestral que es furor entre famosos y mejora la calidad de vida? - LA NACION",
+    description:
+      "Se trata de una práctica que combina el uso de la tecnología con la biología humana para optimizar y potenciar la bioindividualidad",
+    url: "https://www.lanacion.com.ar/salud/desde-madonna-hasta-ginobili-cual-es-la-tecnica-ancestral-que-es-furor-entre-famosos-y-mejora-la-nid09082022/",
+    urlToImage:
+      "https://resizer.glanacion.com/resizer/2nCraQ4WiGN0gWvBlk6UbAxOeP4=/1920x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/XJ3TX5YKHFEFVE5LMUYYS67YUE.jpg",
+    publishedAt: "2022-08-09T12:56:00Z",
+    content:
+      "El ser humano busca la comodidad y el placer inmediato; esta falta de adversidad nos lleva a ser cada vez más débiles. A pesar de que evolucionamos como especie, nuestra biología y sus necesidades si… [+5248 chars]",
+  },
+  {
+    id: 5,
+    author: "Rosario3",
+    title:
+      "Reunión clave para destrabar el proyecto de Javkin para designar a los jefes de la Policía - Rosario3.com",
+    description:
+      "Este martes los diputados de las comisiones de Seguridad Pública, Asuntos Comunales y Constitucionales estarán en el municipio para mantener un encuentro con el intendente. El objetivo es acordar un nuevo texto donde la potestad para elegir a las autoridades …",
+    url: "https://www.rosario3.com/informaciongeneral/Reunion-clave-para-destrabar-el-proyecto-de-Javkin-para-designar-a-los-jefes-de-la-Policia-20220809-0014.html",
+    urlToImage:
+      "https://www.rosario3.com/__export/1660048490317/sites/rosario3/img/2022/08/09/pj1_crop1660048451942.jpg_1192065467.jpg",
+    publishedAt: "2022-08-09T12:26:00Z",
+    content:
+      "A tres meses de haber ingresado formalmente en Diputados, el proyecto de Pablo Javkin para que los intendentes puedan designar a los jefes regionales de la Policía empieza a moverse entre las comisio… [+1669 chars]",
+  },
+  {
+    id: 6,
+    author: "Cadena 3 Argentina",
+    title:
+      "Horas de tensión en México: cómo es el rescate de mineros con un dron acuático - Cadena 3",
+    description:
+      "10 obreros permanecen atrapados desde hace cinco días en una mina inundada ubicada a unos 1.130 km al norte de Ciudad de México, en la región carbonífera de Coahuila.",
+    url: "https://www.cadena3.com/noticia/internacionales/horas-de-tension-en-mexico-como-es-el-rescate-de-mineros-con-un-dron-acuatico_333001",
+    urlToImage:
+      "https://www.cadena3.com/admin/playerswf/fotos/ARCHI_937915.jpg",
+    publishedAt: "2022-08-09T12:20:23Z",
+    content:
+      "Las autoridades mexicanas comenzaron a preparar este lunes un operativo para que buzos rescatistas puedan ingresar a una mina de carbón inundada, donde diez obreros permanecen atrapados desde hace ci… [+4000 chars]",
+  },
+  {
+    id: 7,
+    author: "Rosario3",
+    title:
+      'La Municipalidad denunció las pintadas y envió videos a Fiscalía con "8 facinerosos": "Esto no puede pasar" - Rosario3.com',
+    description:
+      'El secretario de Gobierno municipal, Giustavo Zignago, informó que las cámaras de seguridad captaron a ocho personas mientras escribían "Plomo y humo" en el Palacio de los Leones y que ese material ya fue enviado al Ministerio Público de la Acusación. Pidió q…',
+    url: "https://www.rosario3.com/informaciongeneral/La-Municipalidad-denuncio-las-pintadas-y-envio-videos-a-Fiscalia-con-8-facinerosos-Esto-no-puede-pasar-20220809-0012.html",
+    urlToImage:
+      "https://www.rosario3.com/__export/1660048761285/sites/rosario3/img/2022/08/09/pintada_plomo_y_humo_muni.jpg_1192065467.jpg",
+    publishedAt: "2022-08-09T12:13:00Z",
+    content:
+      "Tras las pintadas sobre el Palacio de los Leones que se descubrieron esta mañana, la Municipalidad ya envió videos sobre los sospechosos a la Fiscalía para iniciar una denuncia. Plomo y humo, el nego… [+1146 chars]",
+  },
+  {
+    id: 8,
+    author: "anónimo",
+    title:
+      "iPhone 14: nuevos colores, una carga más rápida y otros datos del lanzamiento - Infobae America",
+    description:
+      "Amantes de Apple, conocidos como Apple Lovers, dicen que los colores de la nueva serie de iPhone 14 serían verde, morado, plateado, dorado, grafito azul, negro, blanco y rojo",
+    url: "https://www.infobae.com/america/tecno/2022/08/09/iphone-14-nuevos-colores-una-carga-mas-rapida-y-otros-datos-del-lanzamiento/",
+    urlToImage:
+      "https://www.infobae.com/new-resizer/PJI1rFAhRFmedz4hJAKrVxxjvqg=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/FGSG2LDMTBCQRL5TBHBOCOHZDM.jpg",
+    publishedAt: "2022-08-09T12:02:45Z",
+    content:
+      "El próximo mes de septiembre se presentaría oficialmente la nueva serie de iPhone 14, razón por la cual, los rumores sobre sus características se hacen cada vez más fuertes en internet.\r\nEn esta ocas… [+3011 chars]",
+  },
+  {
+    id: 9,
+    author: "Redacción LAVOZ",
+    title:
+      "Córdoba: otro detenido por robar autos de alta gama con tecnología Pandora - La Voz del Interior",
+    description:
+      "Sería integrante de la banda dedicada al robo de vehículos con la tecnología rusa.",
+    url: "https://www.lavoz.com.ar/sucesos/cordoba-otro-detenido-por-robar-autos-de-alta-gama-con-tecnologia-pandora/",
+    urlToImage:
+      "https://www.lavoz.com.ar/resizer/XUEVAu7e_-y-XhsUO09tFg6Ho1A=/1200x630/smart/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/HJWVRSBSHBBMFHJDZKFJ3Z545Y.jpg",
+    publishedAt: "2022-08-09T11:54:12Z",
+    content:
+      "Un hombre resultó detenido en las últimas horas en Córdoba en relación a la investigación que se lleva a cabo por el robo de vehículos de alta gama con la tecnología rusa Pandora.\r\nSegún informaron l… [+2345 chars]",
+  },
+  {
+    id: 10,
+    author: "Clarín.com",
+    title:
+      "Una tecnológica japonesa sumará 150 empleados en Argentina: qué perfiles busca y cómo postularse - Clarín",
+    description:
+      "La multinacional NTT Data anunció que quiere llegar a los 1.000 colaboradores en todo el país. Qué pide y qué ofrece.",
+    url: "https://www.clarin.com/servicios/tecnologica-japonesa-sumara-150-empleados-argentina-perfiles-busca-postularse_0_ksBN5oJKK4.html",
+    urlToImage:
+      "https://www.clarin.com/img/2021/08/09/MvbVaZSQh_1200x630__1.jpg",
+    publishedAt: "2022-08-09T09:00:51Z",
+    content:
+      "NTT Data Argentina, la compañía innovadora global de servicios empresariales y de IT con sede en Tokio incorpora más de 150 empleados en el país con la intención de formar equipos federales y multidi… [+6679 chars]",
+  },
+];
+
+localStorage.setItem("noticias", JSON.stringify(datos));
