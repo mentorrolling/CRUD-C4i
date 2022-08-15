@@ -77,7 +77,12 @@ function guardarNoticia(e) {
   let publishedAt = new Date();
 
   if (actualizar.state) {
-    update();
+    noticias[actualizar.id].author = author;
+    noticias[actualizar.id].title = title;
+    noticias[actualizar.id].description = description;
+    noticias[actualizar.id].url = url;
+    noticias[actualizar.id].urlToImage = urlToImage;
+    noticias[actualizar.id].publishedAt = publishedAt;
   } else {
     let datos = {
       author,
@@ -121,23 +126,12 @@ function actualizarNoticia(id) {
   abrirModal();
 }
 
-//actualizar data
-function update() {
-  let indice = actualizar.id;
-  noticias[indice].author = document.querySelector("#autorText").value;
-  noticias[indice].title = document.querySelector("#tituloText").value;
-  noticias[indice].description =
-    document.querySelector("#descripcionText").value;
-  noticias[indice].url = document.querySelector("#urlText").value;
-  noticias[indice].urlToImage = document.querySelector("#imagenUrl").value;
-  noticias[indice].publishedAt = new Date();
-}
-
 document
   .querySelector("#formularioModal")
   .addEventListener("submit", guardarNoticia);
 
 document.querySelector("#cerrarModal").addEventListener("click", function () {
+  document.querySelector("#formularioModal").reset();
   actualizar = {
     state: false,
     id: null,
